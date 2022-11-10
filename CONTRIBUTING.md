@@ -76,7 +76,7 @@ In the issue tracker you will find open issues for each section.
 
 There is a Wikibase Telegram Group you can join by invite. For doing this please send me a message. There is also a @LearningWikibase Twitter channel where I will post news, retweet resources I found etc.
 
-## Contributions
+## Contributing
 
 Everyone is welcome to contribute. 
 You can contribute in three ways: 
@@ -86,14 +86,6 @@ You can contribute in three ways:
 - If your contribution is major e.g a new process step, start by opening an issue first. That way, other people can weigh in on the discussion before you do any work.
 
 You can also report bugs e.g. design, content omissions or copy errors, which you think could cause trouble for the project. This will be valuable feedback for the project.
-
-## Recognition
-
-I appreciate everyone’s time and work for the project and will list all people here who are contributing to this project.
-
-## Help 
-
-You can contact me via twitter @LearningWikibase or email: learningwikibase@gmail.com.
 
 
 # Style Guide

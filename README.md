@@ -30,12 +30,12 @@ Feel free to contribute to this repository.
 
 ## Contribution guidelines
 
-Please check out the [contribution guidlines](https://github.com/samu-wmde/learningwikibase/blob/master/CONTRIBUTING.md).
+Please check out the [contribution guidelines](https://github.com/JeroenDeDauw/LearningWikibase/blob/master/CONTRIBUTING.md).
 
 ## Roadmap
 
 My roadmap for the project will be:
-- Finetune Requirement + MVP (February)
+- Fine-tune Requirement + MVP (February)
 - Creating Learning Design for the Online Course + Content + Interaction Platform (Mid-April)
 - Testing Online Course and Interaction Platform on Wikibase Workshops (End-April / May)
 
