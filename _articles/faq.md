@@ -95,10 +95,12 @@ Follow the Wikidata licensing schema: CC0 for all data + CC BY SA for the rest o
 # Import Data
 
 ### What do you use for large scale imports in Wikidata? 
-You can use WikidataIntegrator (https://github.com/SuLab/WikidataIntegrator)
-A Wikidata Python module integrating the MediaWiki API and the Wikidata SPARQL endpoint.
 
-### Is it possible to recreate a Wikibase from the RDF dump? 
+See [Fast Bulk Import Into Wikibase](https://www.wikibase.consulting/fast-bulk-import-into-wikibase/)
+
+### Can I transfer data between Wikibases?
+
+Yes. See [Transferring Wikibase data between wikis](https://www.wikibase.consulting/transferring-wikibase-data-between-wikis/)
 
 ### Is the authentification between the quickstatement and wikibase work on the docker image per default ?
 ...As far as I know it is not yet ready to work out of the box. There are detailed instructions in the README on how to set it up tohugh. Although... this is now merged so maybe it's further along than I thought https://github.com/wmde/wikibase-docker/pull/70/
