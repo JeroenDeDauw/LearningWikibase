@@ -1,4 +1,4 @@
-# LearningWikibase
+# Learning Wikibase
 
 [Wikibase](http://wikiba.se/) lets you store and manage structured, non-relational data in a central,
 collaboratively managed repository. It is most prominently used to power [Wikidata](https://www.wikidata.org/).
