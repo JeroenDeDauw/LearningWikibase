@@ -12,11 +12,12 @@ image: /assets/images/articles/install-wikibase.svg
 
 There are different ways to install Wikibase. The most common are:
 
+- [Wikibase Hosting](https://www.pro.wiki/articles/wikibase-hosting-options-compared)
 - [Git and Composer](https://www.mediawiki.org/wiki/Wikibase/Installation#Vagrant) 
 - [Wikibase Docker image](https://github.com/wmde/wikibase-docker/blob/master/README-compose.md)
 - [Openstack](https://fuga.cloud/labs/using-openstack-to-run-custom-wikibase/)
 
-When you install Wikibase and your Wikibase Installation is public, please register you installation in the [Wikibase Registry](http://wikibase-registry.wmflabs.org/wiki/Main_Page)
+When you install Wikibase and your Wikibase Installation is public, please register your installation in the [Wikibase Registry](http://wikibase-registry.wmflabs.org/wiki/Main_Page)
 
 # Install Wikibase using Git and Composer
 
